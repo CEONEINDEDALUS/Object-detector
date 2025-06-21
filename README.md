@@ -1,5 +1,8 @@
 # Video Object Tracker with YOLOv8
-![11](https://github.com/user-attachments/assets/09f845be-05a0-4da9-bdfa-e71fc302440d)
+
+
+https://github.com/user-attachments/assets/bba53f0a-735c-43e1-8e4d-0c264c28f437
+
 
 A PyQt5-based desktop application for object detection and tracking in videos using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics).  
 It enables users to load a video, perform object detection and tracking, select a target object, customize highlight colors, adjust confidence threshold, and export videos with tracking overlays.
